@@ -15,6 +15,9 @@
 
   2. Go to the Original NetID box and enter your NetID. Then, enter your password into the Password box.
 
+
+  
+
   3. Select Log in, near the password box or select Enter on your keyboard.
 
 
@@ -27,7 +30,7 @@
     Figure 1.3
      
 
- Tip: Your screen may appear differently than the screen capture shown below, depending if you have access to more than one site.
+ > Tip: Your screen may appear differently than the screen capture shown below, depending if you have access to more than one site.
 
 
     Figure 1.4
@@ -56,6 +59,7 @@
   8. Locate and hover over Pages in the menu on the left of the screen. 
 	
     Figure 1.8
+    
     
   9. Hover over Pages, within the navigation panel to view the available options.
 
