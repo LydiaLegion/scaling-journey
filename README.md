@@ -24,7 +24,7 @@
  4. Once you login, locate and hover your cursor over My Sites to view the sites you have access to.
 
 
-     Figure 1.3
+    Figure 1.3
      
 
  Tip: Your screen may appear differently than the screen capture shown below, depending if you have access to more than one site.
@@ -36,7 +36,7 @@
   5. Hover over eLearning, within the MySites menu.
 
 
-   Figure 1.5
+    Figure 1.5
 
 > Tip: Keep your cursor within the eLearning tab. If you move your cursor outside of this area, then the box will disappear. 
 
