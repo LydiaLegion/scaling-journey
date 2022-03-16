@@ -1,5 +1,29 @@
 # scaling-journey
-# A step-by-step guide to Wordpress:
+
+# Locate the eLearning Page in Wordpress
+ 
+## _Lydia Julian, Webmaster, UA Little Rock_
+
+
+
+
+
+Discover how to find your department’s Site, Dashboard, and Pages using Wordpress, a free website and blog builder. The Dashboard is a centralized display of your department’s information.
+
+
+
+
+## What technology is compatible with Wordpress?
+
+- Wordpress will work with computers, such as Mac or Windows. 
+- Chrome is the recommended browser for operating Wordpress.
+
+## What do I need in order to access UALR’s eLearning website through Wordpress?
+
+
+- Employees must be approved for access to the eLearning page in Wordpress.
+- Employees with access to Wordpress can use their university NetID to login to Wordpress. 
+
 
 
 ## STEPS AND SCREENSHOTS:
